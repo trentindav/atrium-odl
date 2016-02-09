@@ -28,6 +28,8 @@
     <module>drivers/api</module>
     <module>vendor/mininet/impl</module>
     <module>vendor/mininet/features</module>
+    <module>vendor/noviflow/impl</module>
+    <module>vendor/noviflow/features</module>
     <module>vendor/hp/3800</module>
     <module>vendor/hp/features</module>
     <module>artifacts</module>
