@@ -32,7 +32,7 @@ public class NoviflowModule extends org.opendaylight.yang.gen.v1.urn.opendayligh
 
     private static final Class<? extends DeviceTypeBase> DEVICE_TYPE = NoviflowDeviceType.class;
     private static final String MANUFACTURER = "NoviFlow Inc";
-    private static final List<String> HARDWARE = ImmutableList.of("NS1248");
+    private static final List<String> HARDWARE = ImmutableList.of("NS1132", "NS1248", "NS2128");
     private static final DeviceTypeInfo DEVICE_TYPE_INFO = new DeviceTypeInfoBuilder().setDeviceType(DEVICE_TYPE)
             .setOpenflowManufacturer(MANUFACTURER)
             .setOpenflowHardware(HARDWARE).build();

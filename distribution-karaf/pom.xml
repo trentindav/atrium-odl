@@ -68,6 +68,14 @@
                         <type>xml</type>
                         <scope>runtime</scope>
                 </dependency>
+                <dependency>
+                        <groupId>org.opendaylight.didm.noviflow</groupId>
+                        <artifactId>noviflow-features</artifactId>
+                        <version>${didm.version}</version>
+                        <classifier>features</classifier>
+                        <type>xml</type>
+                        <scope>runtime</scope>
+                </dependency>
 
 
 		<dependency>

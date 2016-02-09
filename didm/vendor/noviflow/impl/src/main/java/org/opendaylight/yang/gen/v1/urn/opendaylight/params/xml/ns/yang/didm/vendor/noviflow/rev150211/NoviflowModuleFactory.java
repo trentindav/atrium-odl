@@ -8,6 +8,6 @@
 * Do not modify this file unless it is present under src/main directory
 */
 package org.opendaylight.yang.gen.v1.urn.opendaylight.params.xml.ns.yang.didm.vendor.noviflow.rev150211;
-public class NoviflowsModuleFactory extends org.opendaylight.yang.gen.v1.urn.opendaylight.params.xml.ns.yang.didm.vendor.noviflow.rev150211.AbstractNoviflowModuleFactory {
+public class NoviflowModuleFactory extends org.opendaylight.yang.gen.v1.urn.opendaylight.params.xml.ns.yang.didm.vendor.noviflow.rev150211.AbstractNoviflowModuleFactory {
 
 }

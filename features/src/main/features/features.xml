@@ -73,6 +73,7 @@
 		<feature version='${didm.version}'>odl-didm-identification</feature>
 		<feature version='${didm.version}'>odl-didm-drivers-api</feature>
 		<feature version='${didm.version}'>odl-didm-mininet</feature>
+		<feature version='${didm.version}'>odl-didm-noviflow</feature>
 	</feature>
 	<feature name="atrium-hostservice" version='${atrium.version}'
 		description='OpenDaylight :: hostservice'>
